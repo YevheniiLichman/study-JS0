@@ -1,4 +1,4 @@
 function myFunction(){
-    alert("hdelddlo world!")
+    alert("Привет!")
 }
 myFunction()
